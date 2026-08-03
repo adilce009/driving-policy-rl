@@ -1,4 +1,4 @@
-# Autonomous Driving RL Policy — Reward Design & Environment (L5Kit)
+# Autonomous Driving RL Policy — Reward Design & Environment
 
 ## Context
 This code was developed as part of my graduate research on reinforcement-learning-based 
