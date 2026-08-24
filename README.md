@@ -3,7 +3,7 @@
 ## Context
 This code was developed as part of my graduate research on reinforcement-learning-based 
 autonomous vehicle policy training, built on top of Woven Planet/Lyft's open-source 
-L5Kit simulation framework (https://github.com/woven-planet/l5kit). L5Kit provides the 
+L5Kit simulation framework. L5Kit provides the 
 base dataset handling, map API, and closed-loop simulation infrastructure; the files in 
 this repo are the components I designed and implemented within that framework.
 
