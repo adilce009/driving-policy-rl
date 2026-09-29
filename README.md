@@ -147,7 +147,7 @@ The reward function isn't a standalone script — it's wired into a full closed-
 
 ## Full write-up
 
-The complete design rationale, derivations, and experimental results (including ablations across state encoders and traffic-density regimes) are documented in the full thesis — linked here / available on request.
+The complete design rationale, derivations, and experimental results (including ablations across state encoders and traffic-density regimes) are documented in the full thesis — linked [here](https://carleton.scholaris.ca/items/bc4e5aeb-27c5-49c5-994b-d9eb866948f6).
 
 
 <!--
@@ -160,7 +160,7 @@ this repo are the components I designed and implemented within that framework.
 
 -->
 **Note:** This repo contains selected files extracted from a larger private research 
-codebase (https://github.com/adilce009/egoDriveSafe/tree/main) for demonstration purposes. It is not a runnable standalone project — it 
+[codebase](https://github.com/adilce009/egoDriveSafe/tree/main) for demonstration purposes. It is not a runnable standalone project — it 
 requires the full L5Kit environment, a licensed dataset, and lab-specific configuration 
 to execute.
 
