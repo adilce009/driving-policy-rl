@@ -12,7 +12,7 @@
 This repo contains the original code I wrote as part of a larger project built on
 top of Lyft Level 5 (Woven Planet) self-driving simulator (l5kit). Because my
 contribution is spread across a handful of files inside a much larger third-party
-codebase, I have extracted the core files where I have most of my contributions so they can be reviewed. It is not a runnable standalone project. The complete codebase is [here](https://github.com/adilce009/egoDriveSafe).
+codebase, I have extracted the core files where I have most of my contributions so they can be reviewed. It is not a runnable standalone project. The complete codebase is [here](https://github.com/adilce009/egoDriveSafe). You can find my [thesis](https://carleton.scholaris.ca/items/bc4e5aeb-27c5-49c5-994b-d9eb866948f6) at Carleton University thesis repository for detail work documentation.  
 
 ## Why this project exists
 
